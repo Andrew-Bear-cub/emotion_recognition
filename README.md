@@ -22,4 +22,6 @@ The binaries required to run are installed from the requirements.txt file
 В корень проекта в PyCharm необходимо подложить файл с каскадом Хаара (haarcascade_frontalface_default.xml) и сохраненную модель по ссылке выше.
 Необходимые для запуска билбиотеки ставятся из файла requirements.txt
 
-<center>![image](https://user-images.githubusercontent.com/37875675/141759276-27d71f6c-5f9c-42f5-8320-4c4a23095b17.png)</center>
+<p align="center">
+  ![image](https://user-images.githubusercontent.com/37875675/141759276-27d71f6c-5f9c-42f5-8320-4c4a23095b17.png)
+</p>
