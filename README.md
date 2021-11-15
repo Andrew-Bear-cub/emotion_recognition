@@ -23,5 +23,5 @@ The binaries required to run are installed from the requirements.txt file
 Необходимые для запуска билбиотеки ставятся из файла requirements.txt
 
 <p align="center">
-  ![image](https://user-images.githubusercontent.com/37875675/141759276-27d71f6c-5f9c-42f5-8320-4c4a23095b17.png)
+  <img src="https://user-images.githubusercontent.com/37875675/141759276-27d71f6c-5f9c-42f5-8320-4c4a23095b17.png">
 </p>
