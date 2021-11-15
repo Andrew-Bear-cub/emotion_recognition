@@ -4,7 +4,6 @@
 </p>
 Description in English below.
 
-<p style='text-align: center;'> Дипломный проект для образовательной платформы Скиллбокс. </p>
 Дипломный проект для образовательной платформы Скиллбокс. 
 Реализация алгоритма для распознавания эмоций. захват видео с камеры с помощью библиотеки OpenCV, распознавание лиц с использованием каскадов Хаара,
 затем инференс эмоций из обученной ранее модели.
@@ -15,6 +14,7 @@ Description in English below.
 Инференс и вывод изображения в файле recognition.py . 
 В корень проекта в PyCharm необходимо подложить файл с каскадом Хаара (haarcascade_frontalface_default.xml) и сохраненную модель по ссылке выше.
 Необходимые для запуска билбиотеки ставятся из файла requirements.txt
+
 
 Diploma project for Skillbox.
 Implementation of an algorithm for recognizing human emotions. Capturing video from a camera using the OpenCV library, face recognition using Haar cascades,
