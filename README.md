@@ -5,7 +5,7 @@ Diploma project for Skillbox
 Реализация алгоритма для распознавания эмоций человека. Захват видео с камеры при помощи библиотеки OpenCV,распознавание лиц с помощью каскадов Хаара, 
 далее инференс эмоции из обученной модели.
 
-В качестве нейронной сети используется вот [эта](https://github.com/rcmalli/keras-vggface) реализация keras-vggface).
+В качестве нейронной сети используется вот [эта](https://github.com/rcmalli/keras-vggface) реализация keras-vggface.
 
 Обучение моделей проиходит в приложенном ноутбуке. 
 Результаты моего обучения доступны по [ссылке](https://drive.google.com/file/d/1x691GZaU66tb16OCodMjC45DlXAiGh10/view?usp=sharing) 
